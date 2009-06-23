@@ -2,7 +2,7 @@
 /*
 Plugin Name: CF Tag Archive RSS
 Plugin URI: 
-Description: This appends an RSS link for each link on a tag archive page (or any time 'wp_generate_tag_cloud' is called).  Several filters allow it to be highly customizable.
+Description: This appends an RSS link for each tag's link on a tag archive page (or any time 'wp_generate_tag_cloud' is called).  Several filters allow it to be highly customizable.
 Version: 1.0
 Author: Crowd Favorite
 Author URI: http://crowdfavorite.com
